@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cook Way</string>
+    <string name="button">Button</string>
+    <string name="previous">Previous</string>
+    <string name="detail_text">Ecran detail</string>
+    <string name="ingredient_1">Ingredient 1</string>
+    <string name="ingredients_2">Ingredients 2</string>
+    <string name="ingredient_3">Ingredient 3</string>
+    <string name="add_to_your_foodlist">ADD TO YOUR FOODLIST</string>
+    <string name="ajouter_mon_panier">Ajouter à mon panier</string>
+    <string name="montrer_mon_panier">Montrer mon panier</string>
+    <string name="vider_votre_panier">Vider votre panier</string>
+</resources>
