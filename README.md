@@ -26,4 +26,4 @@ Cette affiche application est une simulation d'un shop de nourriture qui nous pe
  ## Fonctionnalités
  # Ecran Principal
   - Ecran affichant la liste des repas disponible et leurs prix avec un Recycle View
-  ![Image of Home](https://github.com/MjuM/ProjectAndroid/Home.jpg)
+  ![Image of Home](https://github.com/MjuM/ProjectAndroid/blob/master/Home.jpg)
