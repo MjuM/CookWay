@@ -1,4 +1,4 @@
-# CookWay
+# CookWay version Kotlin mode Affichage seulement
 - Une application par Majuran Murugananthan
 ## Presentation
 Application android codé en Kotlin utilisant une architecture MVVM
