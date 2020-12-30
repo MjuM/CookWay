@@ -21,32 +21,32 @@ Cette affiche application est une simulation d'un shop de nourriture qui nous pe
  ### Ecran Acceuil
  
   - Ecran affichant un login Screen
-  ![Image of Home](https://github.com/MjuM/ProjectAndroid/blob/master/HOME_SCREENY.png)
+  ![Image of Home](https://github.com/MjuM/ProjectAndroid/blob/master/HOME_SCREENY.PNG)
   
 ### Login name
 
   - Voici le login name qu'on va utiliser
   
-  ![Image of detail](https://github.com/MjuM/ProjectAndroid/blob/master/LOG_NAME.png)
+  ![Image of detail](https://github.com/MjuM/ProjectAndroid/blob/master/LOG_NAME.PNG)
   
  ### Test de connexion
   - Lorsqu'on essaye de se connecter sans avoir créer un compte au préalable
-  ![Image of empty](https://github.com/MjuM/ProjectAndroid/blob/master/LOGERROR.png)
+  ![Image of empty](https://github.com/MjuM/ProjectAndroid/blob/master/LOGERROR.PNG)
   
   - On crée un compte pour palier à ce problème
-  ![Image of full](https://github.com/MjuM/ProjectAndroid/blob/master/CREATE_ACCOUNTY.png)
+  ![Image of full](https://github.com/MjuM/ProjectAndroid/blob/master/CREATE_ACCOUNTY.PNG)
   
   - On voit bien dans la database la présence de l'identifiant
-  ![Image of remove](https://github.com/MjuM/ProjectAndroid/blob/master/DATABASE_INSPECTOR.png)
+  ![Image of remove](https://github.com/MjuM/ProjectAndroid/blob/master/DATABASE_INSPECTOR.PNG)
 
    - On arrive bien à se connecter maintenant
-  ![Image of detail1](https://github.com/MjuM/ProjectAndroid/blob/master/LOG_SUCCESS.png)
+  ![Image of detail1](https://github.com/MjuM/ProjectAndroid/blob/master/LOG_SUCCESS.PNG)
   
   - Affichage de la liste suite à la connection
-  ![Image of remove1](https://github.com/MjuM/ProjectAndroid/blob/master/LIST.png)
+  ![Image of remove1](https://github.com/MjuM/ProjectAndroid/blob/master/LIST.PNG)
   
   - Affichage de la liste suite à la connection mais cette fois ci en mode avion ( stockage en cache )
-  ![Image of remove2](https://github.com/MjuM/ProjectAndroid/blob/master/MODEAVION.png)
+  ![Image of remove2](https://github.com/MjuM/ProjectAndroid/blob/master/MODEAVION.PNG)
   
   
   
